@@ -11393,6 +11393,23 @@ iki.fi
 biz.at
 info.at
 
+// Joyent : https://www.joyent.com/
+// Submitted by Brian Bennett <brian.bennett@joyent.com>
+eu-ams-1.triton.zone
+us-east-1.triton.zone
+us-east-2.triton.zone
+us-east-3.triton.zone
+us-east-3b.triton.zone
+us-west-1.triton.zone
+us-sw-1.triton.zone
+eu-ams-1.cns.joyent.com
+us-east-1.cns.joyent.com
+us-east-2.cns.joyent.com
+us-east-3.cns.joyent.com
+us-east-3b.cns.joyent.com
+us-west-1.cns.joyent.com
+us-sw-1.cns.joyent.com
+
 // Magento Commerce
 // Submitted by Damien Tournoud <dtournoud@magento.cloud>
 *.magentosite.cloud
